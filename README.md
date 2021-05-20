@@ -16,7 +16,7 @@ Tasks - Story Points
 
 ----
 
-Sprint 1 : Tasks 1, 2, 3, 4, 5 & 6 - 24 points                                                                      
+Sprint 1 : Tasks 1, 2, 3, 4, 5, 6 & 7 - 27 points                                                                      
 Sprint 2 : Tasks 8 & 9 - 26 points
 
 ## Estimates Calculation
